@@ -227,9 +227,3 @@ MLflow используется для трекинга эксперименто
 ```text
 https://hub.docker.com/repository/docker/denlex92/credit-default-service
 ```
-
-Команда для загрузки образа:
-
-```bash
-docker pull denlex92/credit-default-service:latest
-```
